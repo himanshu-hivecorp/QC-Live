@@ -36,7 +36,7 @@ A powerful, self-hosted streaming application that enables 24/7 live streaming t
 ```bash
 git clone https://github.com/your-repo/qc-live.git
 cd qc-live
-```
+ ```
 
 ### 2. Install Dependencies
 ```bash
